@@ -1,3 +1,5 @@
 # jogo-da-velho
-primeiro jogo feito
-meu primeiro jogo 
+
+Meu primeiro jogo feito.
+
+Projeto da Dio.me
